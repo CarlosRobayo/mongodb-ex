@@ -1,4 +1,17 @@
 .container {
-    margin: 10% auto 0 auto;
+    margin: 12% auto 0 auto;
     width: 50%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    margin: 0 0 4% 0;
+}
+
+
+button {
+    float: right;
 }

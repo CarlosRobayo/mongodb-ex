@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/CarlosRobayo/mongodb-ex#readme",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "gulp": "^3.9.1",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mongoose": "^4.9.5"
   },
   "devDependencies": {
     "browser-sync": "^2.18.8",
