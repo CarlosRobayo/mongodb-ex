@@ -1,0 +1,10 @@
+extends ./layout.jade
+block layout
+
+  div(class="container")
+
+    form(action="/register" method="POST")
+
+      label(for="email") Email:
+      input(type="text" name="email" id="email" class="form-control" placeholder="Email")
+
